@@ -1,4 +1,4 @@
-# hasura-vue
+# vue-hasura-101
 
 ## Project setup
 ```
